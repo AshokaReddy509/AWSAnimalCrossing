@@ -1,5 +1,5 @@
 variable "application" {
-  default = "AnimalCrossing"
+  default = "Animal"
   type    = string
 }
 
